@@ -1,5 +1,6 @@
 USE [InovisTTOperative]
-CREATE TABLE dim_customers
+
+CREATE TABLE dimension_customers
 (
 	id INT,
 	name VARCHAR(255),

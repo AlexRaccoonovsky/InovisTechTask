@@ -1,5 +1,5 @@
 USE [InovisTTOperative]
-CREATE TABLE dim_products
+CREATE TABLE dimension_products
 (
 	id INT,
 	name VARCHAR(255),
